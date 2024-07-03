@@ -1,0 +1,19 @@
+ul{
+    list-style-type:none;;
+    background-color: black;
+    color:aqua;
+    text-align: center;
+    
+    
+}
+li{
+   display: inline;
+   font-size: 10px;
+   margin: 20px ;
+   text-align: vertical;
+   rotate:270deg;
+  
+}
+body{
+    background-size: 100%;
+}
